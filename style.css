@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(19, 95, 76, 0.904);
+}
+
+.name {
+color:rgb(95, 231, 255) ;
+}
+
+#identify_button {
+ background-color:green ;
+ color: lightgoldenrodyellow;
+ width: 100px;
+}
+
+#capture_button {
+    background-color:crimson ;
+    color: lightgoldenrodyellow;
+    width: 100px;
+}
+
+#hh {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xxx-large;
+    color: magenta;
+}
+.a_o {
+ color:lightsteelblue ;
+}
+
+#foter {
+    text-align: center;
+    color: rgb(168, 255, 251);
+    background-color: lightseagreen;
+    position: fixed;
+    bottom: 0;
+
+}
